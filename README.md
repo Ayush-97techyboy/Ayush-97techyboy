@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Ayush-97techyboy/Ayush-97techyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... Social stubs given in the profile description.
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... I'm still single looking for deep programming & tech stacks😁🌝😇
--->
