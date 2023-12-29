@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-
-**Ayush-97techyboy/Ayush-97techyboy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+✨Here is my intro:✨
 
 - 🔭 I’m currently working on ... Front End Technologies
 - 🌱 I’m currently learning ... Front - End Stacks, like, JavaScript, CSS, HTML5, Git, BootStrap, REST API, Linux Basics, Functional Programming
