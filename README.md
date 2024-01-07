@@ -16,4 +16,4 @@
 
 😄 Pronouns: He/Him,
 
-⚡ Fun fact: I'm still single &looking for deep programming & tech stacks😁🌝😇
+⚡ Fun fact: I'm still single & looking for deep programming & tech stacks😁🌝😇
