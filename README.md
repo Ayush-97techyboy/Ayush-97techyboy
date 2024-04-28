@@ -17,3 +17,6 @@
 😄 Pronouns: He/Him,
 
 ⚡ Fun fact: I'm still single & looking for deep programming & tech stacks😁🌝😇
+
+
+<a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
