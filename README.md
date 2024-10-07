@@ -10,7 +10,7 @@
 
 🤔 I’m looking for help with Front - End related projects,
 
-💬 Ask me about: JS, HTML5, CSS,
+💬 Ask me about: JS, HTML5, CSS, JS, ReactJS, etc,
 
 📫 How to reach me: Social stubs are given in the profile description,
 
