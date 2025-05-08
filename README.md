@@ -24,7 +24,7 @@
 
 ⚡ Fun fact: I'm still single & looking forward for the deep love of programming & tech stacks😁🌝😇
 
-📫 You can reach me with **[Linktree <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png' alt='linktree' width="300" height="200"/>](https://linktr.ee/_itsmeayu_97)**
+📫 You can reach me with **[Linktree <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png' alt='linktree' width="80" height="80"/>](https://linktr.ee/_itsmeayu_97)**
 
 
 
