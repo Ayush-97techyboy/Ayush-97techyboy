@@ -76,9 +76,9 @@
 
   <summary>Currently listening 🎶</summary>  <br>
 
-<!-- <a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150" />
-</a> -->
+<a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150" />
+</a> 
 
 
 <div style="display: flex; justify-content: space-between; gap: 12px;">
