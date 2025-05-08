@@ -11,7 +11,8 @@
 <summary>
     🙋‍♂️ About Me
 </summary> 
- 
+
+
 🔭 I’m currently working on: Front - End Stacks like >> React, JavaScript, CSS, HTML5, Git, BootStrap, REST API, Linux Basics, Functional Programming,
 
 👯 I’m looking to collaborate in Front - End related Projects for more insights
@@ -27,7 +28,6 @@
 </details>
 
 <br>
-<br>
 
 <details>
 
@@ -38,11 +38,12 @@
 </details>
 
 <br>
-<br> 
 
 <details>
   <summary>🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20></summary>
 
+
+<div align="center">
 ### Languages (and how good I know them):
 | JS | --HTML-- | C | <br>
 |:-:|:-:|:-:|:-:|:-:| <br>
@@ -60,7 +61,6 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
 
 <br>
-<br>
 
 ### Tools, Software and Technologies:
 
@@ -69,9 +69,9 @@
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
 
 </details>
+</div>
+<br>
 
-<br>
-<br>
 <details open>
 
   <summary>Currently listening 🎶</summary>
@@ -80,7 +80,6 @@
 </details>
 
 <br>
-<br>
 <details>
   <summary>Let's connect 🤝</summary>
   
@@ -88,7 +87,6 @@
  </details>
 
  <br>
-<br>
  <details>
   <summary>✍️ Random Dev Quote 🧬</summary>
   
@@ -97,9 +95,9 @@
   </details>
   
 <br>
-<br>
 <details>
   <summary>Daily.dev Stats 📊</summary>
-     <a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
+    
+<a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
 </details>
 
