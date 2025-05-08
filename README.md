@@ -64,9 +64,9 @@
 
 ### Tools, Software and Technologies:
 
-| Github | Git | Markdown | VS Code |<br>
+| Github | Git | Markdown | VS Code | Json | <br>
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| <br>
-| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
 
 </details>
 </div>
@@ -79,7 +79,7 @@
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=55ceec&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true)
 
  <a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="80" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color_cover=true" width="150" />
 </a>
 
 </details>
