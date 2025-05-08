@@ -42,7 +42,7 @@
 
 | React | Vue.js | Three.js | Next.js | Nuxt.js |
 |:-:|:-:|:-:|:-:|:-:|:-:|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original-wordmark.svg" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
   
 ### Tools, Software and Technologies:
 
