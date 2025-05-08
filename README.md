@@ -79,7 +79,7 @@
 <details>
   <summary>Let's connect 🤝</summary>
   
-  | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a href="https://www.linkedin.com/in/ayushmishra28/"><img align="center" width="20" src="https://cdnlogo.com/logo/linkedin-icon_39423.html"> Ayush Mishra#4113</a> |
+  | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a href="https://www.linkedin.com/in/ayushmishra28/"><img align="center" width="20" src="<a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>"> Ayush Mishra</a> |
  </details>
  
  <details>
