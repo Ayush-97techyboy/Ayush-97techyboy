@@ -50,16 +50,16 @@
 <br>
 ### Frameworks and Libraries (React):
 
-| React | Vue.js | Three.js | Next.js | Nuxt.js |<br>
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| <br>
+| React | --Vue.js-- | Three.js | Next.js | Nuxt.js |<br>
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| <br>
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
 
 <br>
 <br>
 ### Tools, Software and Technologies:
 
-| Github | Git | Markdown | VS Code |
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| Github | Git | Markdown | VS Code |<br>
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| <br>
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
 
 </details>
@@ -74,7 +74,7 @@
 <details>
   <summary>Let's connect 🤝</summary>
   
-  | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a align="center" width="20" href="https://www.linkedin.com/in/ayushmishra28/"><img src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>"> Ayush Mishra</a> |
+  | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a align="center" href="https://www.linkedin.com/in/ayushmishra28/"><img align="center" width="20" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg">Ayush Mishra</a> |
  </details>
  
  <details>
