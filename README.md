@@ -6,6 +6,8 @@
 
 </div>
 
+<details>
+
 ## 🙋‍♂️ About Me
 
 🔭 I’m currently working on: Front - End Stacks like >> React, JavaScript, CSS, HTML5, Git, BootStrap, REST API, Linux Basics, Functional Programming,
@@ -19,6 +21,10 @@
 ⚡ Fun fact: I'm still single & looking forward for the deep love of programming & tech stacks😁🌝😇
 
 📫 You can reach me with **[Linktree <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png' alt='linktree' width="40" height="40"/>](https://linktr.ee/_itsmeayu_97)**
+  
+</details>
+
+
 
 <details>
 
@@ -39,7 +45,7 @@
 
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="55" height="55"/>
   
-\n
+
 
 ### Frameworks and Libraries (React):
 
@@ -50,7 +56,7 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
 
 
-\n 
+
 
 ### Tools, Software and Technologies:
 
@@ -60,7 +66,7 @@
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
 
-\n 
+ 
 
 ## ✍️ Random Dev Quote
 
