@@ -26,7 +26,8 @@
   
 </details>
 
-
+<br>
+<br>
 
 <details>
 
@@ -35,6 +36,9 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-97techyboy&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-97techyboy&layout=compact&theme=vue&hide_border=true" /></a> |
 | ------------- | ------------- | 
 </details>
+
+<br>
+<br> 
 
 <details>
   <summary>🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20></summary>
@@ -48,6 +52,7 @@
   
 <br>
 <br>
+
 ### Frameworks and Libraries (React):
 
 | React | --Vue.js-- | Three.js | Next.js | Nuxt.js |<br>
@@ -56,6 +61,7 @@
 
 <br>
 <br>
+
 ### Tools, Software and Technologies:
 
 | Github | Git | Markdown | VS Code |<br>
@@ -64,6 +70,8 @@
 
 </details>
 
+<br>
+<br>
 <details open>
 
   <summary>Currently listening 🎶</summary>
@@ -71,19 +79,25 @@
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=55ceec&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true)
 </details>
 
+<br>
+<br>
 <details>
   <summary>Let's connect 🤝</summary>
   
   | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a align="center" href="https://www.linkedin.com/in/ayushmishra28/"><img align="center" width="20" src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg">Ayush Mishra</a> |
  </details>
- 
+
+ <br>
+<br>
  <details>
   <summary>✍️ Random Dev Quote 🧬</summary>
   
   | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) |
   
   </details>
-
+  
+<br>
+<br>
 <details>
   <summary>Daily.dev Stats 📊</summary>
      <a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
