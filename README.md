@@ -38,6 +38,7 @@
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="55" height="55"/>
   
 
+
 ### Frameworks and Libraries (React):
 
 | React | Vue.js | Three.js | Next.js | Nuxt.js |
@@ -45,6 +46,7 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
+
   
 ### Tools, Software and Technologies:
 
@@ -62,6 +64,67 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
+
+
+### Hello! I'm Piyush Suthar
+A self-taught developer from India who loves to work with Typescript, Rust and Golang.
+
+Other than coding, I love watching [anime](https://anilist.co/user/piyushsthr/) and playing flute.
+
+
+<details>
+
+<summary>Github Stats 📊</summary>
+  
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-97techyboy&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-97techyboy&layout=compact&theme=vue&hide_border=true" /></a> |
+| ------------- | ------------- |
+  
+  
+</details>
+<!-- 
+<details>
+  <summary>wanna talk?</summary>
+
+  - **Twitter** = [@piyushsthr](https://twitter.com/piyushsthr)
+  - **Discord** = [`Piyush Suthar#4113`](https://discord.com/users/441955841260912650)
+</details>
+
+<details> -->
+
+<!--   <summary>projects i'm proud of:-</summary>
+
+  - [windows 11 web](https://github.com/PiyushSuthar/Windows-11-Web)
+  - [clpy](https://github.com/PiyushSuthar/clpy)
+  - [toolzar](https://github.com/PiyushSuthar/toolzar)
+</details> -->
+
+
+<details open>
+
+  <summary>Currently listening 🎶</summary>
+  
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=55ceec&interchange=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true"/>
+  </a>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=55ceec&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true)
+</details>
+
+<details>
+  <summary>Let's connect 🤝</summary>
+  
+  | <a align="center" href="https://twitter.com/piyushsthr"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @PiyushSthr</a> | <a href="https://discord.com/users/441955841260912650"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> Piyush Suthar#4113</a> |
+|---|---|
+  
+ </details>
+ 
+ <details>
+  <summary>A Quote from a random Developer 🧬</summary>
+  
+  | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) |
+|---|
+  
+  </details>
 
 
 
