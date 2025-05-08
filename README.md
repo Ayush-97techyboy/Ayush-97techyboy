@@ -55,9 +55,7 @@
 
 <div align="center">
 
-Oh, and I really love wise quotes that make you think. So I'm leaving a random quote here)
-
-![](https://quotes-github-readme.vercel.app/api?theme=algolia&type=horizontal)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 
 </div>
 
