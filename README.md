@@ -24,7 +24,7 @@
 
 ⚡ Fun fact: I'm still single & looking forward for the deep love of programming & tech stacks😁🌝😇
 
-📫 You can reach me with **[Linktree <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png' alt='linktree' width="80" height="80"/>](https://linktr.ee/_itsmeayu_97)**
+📫 You can reach me with **[Linktree <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png' alt='linktree' width="40" height="40"/>](https://linktr.ee/_itsmeayu_97)**
 
 
 
@@ -35,7 +35,7 @@
 |:-:|:-:|:-:|
 | 10/10 | 10/10 | 8/10 |
 
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/>
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react.eps" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript.eps" title="JS"  alt="JS" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="55" height="55"/>
   
 
 ### Frameworks and Libraries (Python3):
