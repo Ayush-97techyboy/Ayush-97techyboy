@@ -77,24 +77,27 @@
   <summary>Currently listening 🎶</summary>  <br>
 
 <a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="150" />
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" width="500" />
 </a> 
 
 
+
+
+<!--  
 <div style="display: flex; justify-content: space-between; gap: 12px;">
-  <!-- Song Info -->
+  <!-- Song Info 
   <div style="color: white;">
      <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true" target="_blank"></a>
   </div>
 
-  <!-- Cover Image -->
+  <!-- Cover Image 
   <img 
       src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" 
       width="400" 
       alt="Spotify Now Playing"
       style="border-radius: 8px;"
     />
-</div>
+</div> -->
 
 
 </details>
