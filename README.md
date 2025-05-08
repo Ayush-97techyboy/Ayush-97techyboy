@@ -81,11 +81,10 @@
 </a>
 
 
-<div style="display: flex; align-items: center; gap: 12px;">
+<div style="display: flex; justify-content: space-between; gap: 12px;">
   <!-- Song Info -->
   <div style="color: white;">
     <p style="margin: 0; color: #1DB954;">Now playing on Spotify</p>
-    <h3 style="margin: 0;">Landscape</h3>
     <p style="margin: 0;">Jarico</p>
   </div>
 
