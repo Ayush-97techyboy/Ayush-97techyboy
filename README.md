@@ -10,8 +10,7 @@
 
 <summary>
     🙋‍♂️ About Me
-</summary> 
-
+</summary>  <br>
 
 🔭 I’m currently working on: Front - End Stacks like >> React, JavaScript, CSS, HTML5, Git, BootStrap, REST API, Linux Basics, Functional Programming,
 
@@ -43,7 +42,8 @@
   <summary>🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20></summary>
 
 
-<div align="center">
+<div align="center"> 
+    
 ### Languages (and how good I know them):
 | JS | --HTML-- | C | <br>
 |:-:|:-:|:-:|:-:|:-:| <br>
@@ -74,7 +74,7 @@
 
 <details open>
 
-  <summary>Currently listening 🎶</summary>
+  <summary>Currently listening 🎶</summary>  <br>
   
  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=55ceec&interchange=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true)
 </details>
@@ -96,7 +96,7 @@
   
 <br>
 <details>
-  <summary>Daily.dev Stats 📊</summary>
+  <summary>Daily.dev Stats 📊</summary>  <br>
     
 <a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
 </details>
