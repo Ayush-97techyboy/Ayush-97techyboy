@@ -8,8 +8,10 @@
 
 <details>
 
-## 🙋‍♂️ About Me
-
+<summary>
+   ## 🙋‍♂️ About Me
+</summary> 
+ 
 🔭 I’m currently working on: Front - End Stacks like >> React, JavaScript, CSS, HTML5, Git, BootStrap, REST API, Linux Basics, Functional Programming,
 
 👯 I’m looking to collaborate in Front - End related Projects for more insights
@@ -31,14 +33,13 @@
 <summary>Github Stats 📊</summary>
   
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Ayush-97techyboy&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="Ayush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-97techyboy&layout=compact&theme=vue&hide_border=true" /></a> |
-| ------------- | ------------- |
-  
-  
+| ------------- | ------------- | 
 </details>
 
-## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20>
+<details>
+  <summary>## 🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20></summary>
 
-### Languages (and how good I know them):
+  ### Languages (and how good I know them):
 | JS | HTML | C | 
 |:-:|:-:|:-:|
 | 10/10 | 10/10 | 7/10 |
@@ -66,16 +67,7 @@
 
 | <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" alt="Markdown" width="55" height="55"/>| <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" title="VSC" alt="VSC" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original-wordmark.svg" title="PyCharm" alt="PyCharm" width="55" height="55"/>|  <img src="https://cdn-icons-png.flaticon.com/512/136/136443.png" title="Json" alt="Json" width="55" height="55"/>|
 
- 
-
-## ✍️ Random Dev Quote
-
-<div align="center">
-
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-</div>
-
+</details>
 
 <details open>
 
@@ -88,18 +80,18 @@
   <summary>Let's connect 🤝</summary>
   
   | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a href="https://www.linkedin.com/in/ayushmishra28/"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/d/43/discord.svg"> Ayush Mishra#4113</a> |
-|---|---|
-  
  </details>
  
- <details> ---
-  <summary>A Quote from a random Developer 🧬</summary>
+ <details>
+  <summary>## ✍️ Random Dev Quote 🧬</summary>
   
   | [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)](https://github.com/piyushsuthar/github-readme-quotes) |
-|---|
   
   </details>
 
+<details>
+  <summary>
+     <a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
+  </summary>
+</details>
 
-
-<a href="https://app.daily.dev/techbrewry"><img src="https://api.daily.dev/devcards/v2/YH9CsNW5oaFQpTmBJ1P31.png?r=2ef&type=default" width="356" alt="Ayush Mishra's Dev Card"/></a>
