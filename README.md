@@ -39,9 +39,9 @@
 <details>
   <summary>🚀 Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=20></summary>
 
-  ### Languages (and how good I know them):
-| JS | HTML | C | 
-|:-:|:-:|:-:|:-:|
+### Languages (and how good I know them):
+| JS | --HTML-- | C | <br>
+|:-:|:-:|:-:|:-:|:-:| <br>
 | 10/10 | 10/10 | 7/10 |
 
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" title="JS"  alt="JS" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML"  alt="HTML" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-plain.svg" title="C"  alt="C" width="55" height="55"/>
@@ -50,9 +50,8 @@
 <br>
 ### Frameworks and Libraries (React):
 
-| React | Vue.js | Three.js | Next.js | Nuxt.js |
-
-
+| React | Vue.js | Three.js | Next.js | Nuxt.js |<br>
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:| <br>
 |  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg"  alt="React" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original-wordmark.svg" title="Vuejs"  alt="vuejs" width="55" height="55"/>|  <img src="https://miro.medium.com/v2/resize:fit:724/1*6s_Dkfeldg35ySmAp0tPkQ.png" title="threejs" alt="threejs" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-line.svg" title="NextJS" alt="NextJS" width="55" height="55"/>|  <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original-wordmark.svg" title="NuxtJS" alt="NusxtJS" width="55" height="55"/>| 
 
 <br>
@@ -75,7 +74,7 @@
 <details>
   <summary>Let's connect 🤝</summary>
   
-  | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a href="https://www.linkedin.com/in/ayushmishra28/"><img align="center" width="20" src="<a href="https://cdnlogo.com/logo/linkedin-icon_39423.html"><img src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>"> Ayush Mishra</a> |
+  | <a align="center" href="https://twitter.com/me_ayushm_99"><img align="center" width="20" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg"> @me_ayushm_99</a> | <a align="center" width="20" href="https://www.linkedin.com/in/ayushmishra28/"><img src="https://static.cdnlogo.com/logos/l/66/linkedin-icon.svg"></a>"> Ayush Mishra</a> |
  </details>
  
  <details>
