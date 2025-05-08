@@ -84,19 +84,17 @@
 <div style="display: flex; justify-content: space-between; gap: 12px;">
   <!-- Song Info -->
   <div style="color: white;">
-    <p style="margin: 0; color: #1DB954;">Now playing on Spotify</p>
-    <p style="margin: 0;">Jarico</p>
+     <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true" target="_blank"></a>
   </div>
 
   <!-- Cover Image -->
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true" target="_blank">
-    <img 
-      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" 
+  
+  <img 
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true" 
       width="100" 
       alt="Spotify Now Playing"
       style="border-radius: 8px;"
     />
-  </a>
 </div>
 
 
