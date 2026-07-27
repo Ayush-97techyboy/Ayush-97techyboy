@@ -81,7 +81,7 @@
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false" width="380" alt="Spotify Profile Card" />
   </a>
   
-  <a href="[https://music-profile.rayriffy.com](https://music.apple.com/profile/techbrew)">
+  <a href="https://music.apple.com/profile/techbrew">
     <img src="https://music-profile.rayriffy.com/theme/light.svg?uid=000724.10650b99607843fcb2f4818a84674bb7.2215" width="380" alt="Apple Music Profile Card" />
   </a>
 </p>
