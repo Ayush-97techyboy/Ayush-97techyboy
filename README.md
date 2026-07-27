@@ -76,9 +76,13 @@
 
   <summary>Currently listening 🎶</summary>  <br>
 
-<a href="https://music.apple.com/profile/techbrew">
-  <img src="https://music-profile.rayriffy.com/api/view?id=techbrew" width="500" alt="Apple Music Profile" />
-</a> 
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" width="500" />
+</a>
+
+<a href="https://music-profile.rayriffy.com">
+  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=techbrew" width="500" alt="Apple Music Profile" />
+</a>
 
 <a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" width="500" />
