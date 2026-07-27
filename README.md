@@ -76,17 +76,12 @@
 
   <summary>Currently listening 🎶</summary>  <br>
 
-<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" width="500" />
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 25; justify-content: center; align-items: center;">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true"><img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&profanity=true&hide_remaster=false" width="350" alt="Spotify Live Player" /></a>
+  <a href="https://music-profile.rayriffy.com"><img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=000724.10650b99607843fcb2f4818a84674bb7.2215" width="350" alt="Apple Music Profile" /></a>
+</div>
 
-<a href="https://music-profile.rayriffy.com">
-  <img src="https://music-profile.rayriffy.com/theme/dark.svg?uid=techbrew" width="500" alt="Apple Music Profile" />
-</a>
 
-<a  href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&redirect=true">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ofvezyg4fpe3czkc3bwuy3q35q&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false" width="500" />
-</a> 
 </details>
  
 <!--
