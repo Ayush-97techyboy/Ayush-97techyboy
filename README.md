@@ -20,7 +20,7 @@
 
 📫 How to reach me: Social stubs are given in the profile description,
 
-⚡ Fun fact: I'm still single & looking forward for the deep love of programming & tech stacks😁🌝😇
+⚡ Fun fact: I'm still single & looking forward for the deep love of Programming, Generative AI (Models: RAG, etc) & tech stacks😁🌝😇
 
 📫 You can reach me with **[Linktree <img src='https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/linktree-logo-icon.png' alt='linktree' width="40" height="40"/>](https://linktr.ee/_itsmeayu_97)**
   
